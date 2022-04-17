@@ -1,0 +1,16 @@
+.weatherArea{
+  width: 49%;
+}
+.mapArea{
+  width: 49%;
+}
+.days{
+  font-size: 14px;
+  color: #ff6b00;
+  font-weight: bold;
+}
+.nowPlace{
+  font-size: 18px;
+  margin: 20px 0;
+  font-weight: bold;
+}
